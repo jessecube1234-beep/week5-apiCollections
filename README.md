@@ -12,6 +12,9 @@ https://api.openweathermap.org/data/2.5/weather?q=Chicago&appid={{weatherApiKey}
 
 ###Variable Use and Benefits
 The "{{weatherApiKey}}" variable let me use my API key without putting it directly in the URL. It also made it easy to reuse the same setup for other cities.
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/4c01eef1-fe84-467c-8a77-5f634a587d06" />
+
 
 ###Response Analysis
 The response shows live weather data for each city. It includes details like the temperature, how it feels, humidity levels, and a short description of the current conditions. The "200 OK" status means each request was successful.
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/311ebcd7-9abc-42d7-8d4b-152d8cff8548" />
